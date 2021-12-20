@@ -15,4 +15,5 @@ const Button = (props) => {
   );
 };
 
+// React.meme will not work, because it's a reference value
 export default Button;
